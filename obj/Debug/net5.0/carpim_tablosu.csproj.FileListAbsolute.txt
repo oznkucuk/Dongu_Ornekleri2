@@ -1,0 +1,16 @@
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\bin\Debug\net5.0\carpim_tablosu.exe
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\bin\Debug\net5.0\carpim_tablosu.deps.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\bin\Debug\net5.0\carpim_tablosu.runtimeconfig.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\bin\Debug\net5.0\carpim_tablosu.runtimeconfig.dev.json
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\bin\Debug\net5.0\carpim_tablosu.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\bin\Debug\net5.0\carpim_tablosu.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.csproj.AssemblyReference.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.AssemblyInfoInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.AssemblyInfo.cs
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.csproj.CoreCompileInputs.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\refint\carpim_tablosu.dll
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.pdb
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\carpim_tablosu.genruntimeconfig.cache
+C:\Users\ozank\Desktop\CSharp Uygulamalari\bireysel\carpim_tablosu\obj\Debug\net5.0\ref\carpim_tablosu.dll
